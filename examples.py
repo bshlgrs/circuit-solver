@@ -1,7 +1,9 @@
 # Examples.py
+from __future__ import print_function
 
 from circuits import *
 from resistance_examples import *
+
 
 
 circuit1 = [(0,0,[Battery(6),Resistor(2)])]
